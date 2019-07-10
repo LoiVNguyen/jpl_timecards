@@ -1,0 +1,5 @@
+This is the first file I added to the project.
+
+This file comse before the others.
+Git is tracking my changes.
+I added to this woo.
